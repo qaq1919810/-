@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 设置文件路径
-file_path="/storage/emulated/0/DCIM/Camera"
+file_path="文件路径"
 
 # 保存可修改文件的列表
 modifiable_files=$(find "$file_path" -type f)
